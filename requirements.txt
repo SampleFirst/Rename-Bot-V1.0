@@ -6,4 +6,7 @@ motor
 pyrogram==2.0.35
 TgCrypto
 dnspython
-aiohttp
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
+pip==23.0.1
